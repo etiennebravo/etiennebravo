@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning database operations.<br>🎯 Goals: To continue to pursue my education.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently taking CS50x.<br>🎯 Goals: To continue to pursue my education.</p>
 
 ###
 
